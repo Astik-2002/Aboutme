@@ -9,7 +9,7 @@
 
 Hi, My name is Astik Srivastava. I am a robotics developer, currently in my final year at Delhi Technological University. My experience spans significant contributions to UAVs, embedded systems, and simulation development for warehouse automation robots, showcasing a proficiency in Python, C++, MATLAB, and hands-on experience with Arduino, Raspberry Pi, and Nvidia Jetson platforms.
 
-![code](https://user-images.githubusercontent.com/52635773/207892324-21460781-5ba3-4232-a3c7-702fb53ea06d.gif)
+![code](https://github.com/Astik-2002/Aboutme/blob/main/github_readme.gif)
 
 <p align="center">
 I am always looking forward to meeting new people and work on various projects. Connect with me on linkedin or other social media platforms and lets talk about projects to work on!!
